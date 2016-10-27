@@ -1,2 +1,2 @@
-# dash
-Sprint planning tool
+# Dash
+Sprint Planning Tool
